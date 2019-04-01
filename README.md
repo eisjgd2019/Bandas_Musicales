@@ -5,6 +5,9 @@ Actividad en la que se implementan patrones de diseño de software en una aplica
 # Diagrama de clases
 ![ER](https://github.com/eisjgd2019/Bandas_Musicales/blob/master/trabajo%20bandas%20musicales/UML/modelo%20ER.PNG)
 
+# Diagrama de Secuencia
+![ER](https://github.com/eisjgd2019/Bandas_Musicales/blob/master/trabajo%20bandas%20musicales/UML/Diagrama_secuencia_musicos.PNG)
+
 Integrantes: 
 ============
 
