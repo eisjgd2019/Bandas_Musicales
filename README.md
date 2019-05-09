@@ -12,5 +12,5 @@ Integrantes:
 ============
 
 - Gustavo Adolfo Morales Hernandez cod: 20191099034
-- Jimmy Leonardo Melo Cardozo cod: 20191099032
+- Jimmy Herley Amaya Orjuela cod: 20191099024
 - Diego Armando Velez Peralta cod: 20191099042
